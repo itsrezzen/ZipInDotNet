@@ -1,0 +1,15 @@
+C:\Users\Rezzen\Desktop\Zip\Zip\bin\Debug\net6.0\Zip.exe
+C:\Users\Rezzen\Desktop\Zip\Zip\bin\Debug\net6.0\Zip.deps.json
+C:\Users\Rezzen\Desktop\Zip\Zip\bin\Debug\net6.0\Zip.runtimeconfig.json
+C:\Users\Rezzen\Desktop\Zip\Zip\bin\Debug\net6.0\Zip.dll
+C:\Users\Rezzen\Desktop\Zip\Zip\bin\Debug\net6.0\ref\Zip.dll
+C:\Users\Rezzen\Desktop\Zip\Zip\bin\Debug\net6.0\Zip.pdb
+C:\Users\Rezzen\Desktop\Zip\Zip\obj\Debug\net6.0\Zip.csproj.AssemblyReference.cache
+C:\Users\Rezzen\Desktop\Zip\Zip\obj\Debug\net6.0\Zip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rezzen\Desktop\Zip\Zip\obj\Debug\net6.0\Zip.AssemblyInfoInputs.cache
+C:\Users\Rezzen\Desktop\Zip\Zip\obj\Debug\net6.0\Zip.AssemblyInfo.cs
+C:\Users\Rezzen\Desktop\Zip\Zip\obj\Debug\net6.0\Zip.csproj.CoreCompileInputs.cache
+C:\Users\Rezzen\Desktop\Zip\Zip\obj\Debug\net6.0\Zip.dll
+C:\Users\Rezzen\Desktop\Zip\Zip\obj\Debug\net6.0\ref\Zip.dll
+C:\Users\Rezzen\Desktop\Zip\Zip\obj\Debug\net6.0\Zip.pdb
+C:\Users\Rezzen\Desktop\Zip\Zip\obj\Debug\net6.0\Zip.genruntimeconfig.cache
